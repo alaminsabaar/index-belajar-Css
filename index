@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Try Css Style
+		</title>
+		<link rel="stylesheet" href="style.css" type="text/css">
+	</head>
+	<body>
+		<h1 align="center"> CSS STYLE</h1>
+		<h4>Nama : Al Amin Syahrudin Sabaar</h4>
+		<div class="box">
+			<p>PARENT</p>
+			<div class="box2">
+				<p>CHILD</p>
+			</div>
+		</div>
+		
+		<h3 align="center">TERIMA KASIH</h3>
+		
+		<footer>&copy2020StudyClubIk Al Amin Syahrudin Sabaar</footer>
+	</body>
+</html>
